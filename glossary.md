@@ -1,0 +1,1 @@
+Basic computer literacy, a basic understanding of HTML and CSS.

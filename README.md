@@ -1,2 +1,2 @@
 # js-course
-self taught javascript course
+self-taught javascript course
